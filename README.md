@@ -2,7 +2,7 @@
 A Dark Theme for Radarr v.4.1.0.6175+ implemented via Nginx Reverse proxy and its sub_filter module.
 
 ## Gallery
-[![Movies](http://ibb.co/yNCM9MK "Movies")](http://http://ibb.co/yNCM9MK "Movies")[![Discover](http://ibb.co/0BdJ9LY "Discover")](http:/http://ibb.co/0BdJ9LY/ "Discover")[![Calendar](http://ibb.co/YkPgzFY "Calendar")](http://http://ibb.co/YkPgzFY "Calendar")[![Profiles](http://ibb.co/34B0NzF "Profiles")](http://http://ibb.co/34B0NzF "Profiles")[![Quality](http://ibb.co/h13MBDW "Quality")](http://http://ibb.co/h13MBDW "Quality")
+[![Movies](https://i.ibb.co/tH6NGNn/2022-04-19-7-53-13.jpg "Movies")](http://https://i.ibb.co/tH6NGNn/2022-04-19-7-53-13.jpg "Movies")[![Discover](https://i.ibb.co/9wCY40y/2022-04-19-7-56-35.jpg "Discover")](http://https://i.ibb.co/9wCY40y/2022-04-19-7-56-35.jpg "Discover")[![Calendar](https://i.ibb.co/VSJ67cr/2022-04-19-7-54-27.jpg "Calendar")](http://https://i.ibb.co/VSJ67cr/2022-04-19-7-54-27.jpg "Calendar")[![Profiles](https://i.ibb.co/bQzrBJv/2022-04-19-7-53-01.jpg "Profiles")](http://https://i.ibb.co/bQzrBJv/2022-04-19-7-53-01.jpg "Profiles")[![Quality](https://i.ibb.co/fGjSk4p/2022-04-19-7-55-29.jpg "Quality")](http://https://i.ibb.co/fGjSk4p/2022-04-19-7-55-29.jpg "Quality")
 
 ## Assumptions
 - You have an instance of Radarr v.4.1.0.6175 or more recent :smile:
