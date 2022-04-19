@@ -1,8 +1,6 @@
 # Dark-Mode-Radarr
 A Dark Theme for Radarr v.4.1.0.6175+ implemented via Nginx Reverse proxy and its sub_filter module.
-
-## Gallery
-[![Movies](https://i.ibb.co/tH6NGNn/2022-04-19-7-53-13.jpg "Movies")](http://https://i.ibb.co/tH6NGNn/2022-04-19-7-53-13.jpg "Movies")[![Discover](https://i.ibb.co/fMM0jD9/2022-04-19-9-42-22.jpg "Discover")](http://https://i.ibb.co/fMM0jD9/2022-04-19-9-42-22.jpg "Discover")[![Calendar](https://i.ibb.co/VSJ67cr/2022-04-19-7-54-27.jpg "Calendar")](http://https://i.ibb.co/VSJ67cr/2022-04-19-7-54-27.jpg "Calendar")[![Profiles](https://i.ibb.co/bQzrBJv/2022-04-19-7-53-01.jpg "Profiles")](http://https://i.ibb.co/bQzrBJv/2022-04-19-7-53-01.jpg "Profiles")[![Quality](https://i.ibb.co/fGjSk4p/2022-04-19-7-55-29.jpg "Quality")](http://https://i.ibb.co/fGjSk4p/2022-04-19-7-55-29.jpg "Quality")
+[![Movies](https://i.ibb.co/tH6NGNn/2022-04-19-7-53-13.jpg "Movies")](http://https://i.ibb.co/tH6NGNn/2022-04-19-7-53-13.jpg "Movies")
 
 ## Assumptions
 - You have an instance of Radarr v.4.1.0.6175 or more recent :smile:
@@ -42,3 +40,6 @@ Note: Instructions are for Debian (bionic). Modify the instructions to reflect t
 4. If Step #3 is successful access Radarr via your reverse proxy URL (NGINX). For example, http://www.example.net/radarr/
 
 ## Enjoy
+
+## Gallery
+[![Movies](https://i.ibb.co/tH6NGNn/2022-04-19-7-53-13.jpg "Movies")](http://https://i.ibb.co/tH6NGNn/2022-04-19-7-53-13.jpg "Movies")[![Discover](https://i.ibb.co/fMM0jD9/2022-04-19-9-42-22.jpg "Discover")](http://https://i.ibb.co/fMM0jD9/2022-04-19-9-42-22.jpg "Discover")[![Calendar](https://i.ibb.co/VSJ67cr/2022-04-19-7-54-27.jpg "Calendar")](http://https://i.ibb.co/VSJ67cr/2022-04-19-7-54-27.jpg "Calendar")[![Profiles](https://i.ibb.co/bQzrBJv/2022-04-19-7-53-01.jpg "Profiles")](http://https://i.ibb.co/bQzrBJv/2022-04-19-7-53-01.jpg "Profiles")[![Quality](https://i.ibb.co/fGjSk4p/2022-04-19-7-55-29.jpg "Quality")](http://https://i.ibb.co/fGjSk4p/2022-04-19-7-55-29.jpg "Quality")
