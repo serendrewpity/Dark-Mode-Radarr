@@ -6,6 +6,7 @@ A Dark Theme for Radarr v.4.1.0.6175+ implemented via Nginx Reverse proxy and it
 - You have an instance of Radarr v.4.1.0.6175 or more recent :smile:
 - You access your instance of Radarr via NGINX reverse proxy
 - Your instance of NGINX has the HTTPS Subs Filter module (libnginx-mod-http-subs-filter) installed. Or you can installed in on your distro.
+- Alternatively, you can install the **Stylus** browser extension ([Chrome](http://https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en "Chrome") or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/ "Firefox")) and import the custom CSS Code as a [UserStyles](https://userstyles.world/ "UserStyles") or Stylish
 
 ### Installation
 Note: Instructions are for Debian (bionic). Modify the instructions to reflect the distro you're operating on.
