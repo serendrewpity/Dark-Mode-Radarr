@@ -25,8 +25,8 @@ Note: Instructions are for Debian (bionic). Modify the instructions to reflect t
 
 	c. Modify the `/etc/nginx/sites-available/reverse` file and add the following to the location block of your Radarr instance.
 	```bash
-	proxy_set_header Accept-Encoding "";
-    	sub_filter
+    	proxy_set_header Accept-Encoding "";
+	sub_filter
      		'</head>'
      		'<link rel="stylesheet" type="text/css" href="//radarr:7878/Content/dark-radarr.css">
      		</head>';
