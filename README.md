@@ -27,9 +27,9 @@ Note: Instructions are for Debian (bionic). Modify the instructions to reflect t
 	```bash
    proxy_set_header Accept-Encoding "";
    sub_filter
-   '</head>'
-   '<link rel="stylesheet" type="text/css" href="//radarr:7878/Content/dark-radarr.css">
-   </head>';
+       '</head>'
+       '<link rel="stylesheet" type="text/css" href="//radarr:7878/Content/dark-radarr.css">
+       </head>';
    sub_filter_once on;
 	```
 	Note: Once added restart NGINX. Here **`radarr`** is the hostname of the host that is running Radarr. We will be adding the `dark-radarr.css` file to your instance of Radarr at `./Radarr/UI/Content/`. 
