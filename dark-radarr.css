@@ -141,6 +141,30 @@
   background-color: #434343;
 }
 
+.PageJumpBar-jumpBarItems-b\+F9W {
+  display: flex;
+  justify-content: space-around;
+  flex: 0 0 100%;
+  flex-direction: column;
+  overflow: hidden;
+  color: #999;
+  background-color: #434343;
+}
+
+.MovieFileEditorTable-container-vsaRL {
+  margin-top: 20px;
+  border: 1px solid #e5e5e5;
+  border-radius: 4px;
+  background-color: #515253;
+}
+
+.ExtraFileTable-container-JfJsb {
+  margin-top: 20px;
+  border: 1px solid #e5e5e5;
+  border-radius: 4px;
+  background-color: #515253;
+}
+
 .EnhancedSelectInputOption-option-y-rTP:hover {
   background-color: #4f4f4f;
 }
